@@ -1,0 +1,23 @@
+{
+  "name": "@ts-stack/app",
+  "version": "0.0.1",
+  "description": "A simple TS-Stack frontend app.",
+  "repository": "git@bitbucket.org:nestedcode/ts-stack.git",
+  "author": "Tim Kinnane <tim@nestedcode.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "serverless",
+    "typescript",
+    "react",
+    "fullstack",
+    "monorepo"
+  ],
+  "engines": {
+    "node": "> 12.0.0"
+  },
+  "main": "lib/index.js",
+  "devDependencies": {},
+  "peerDependencies": {},
+  "dependencies": {}
+}

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "extendedDiagnostics": true,
+    "incremental": true,
+    "inlineSourceMap": true,
+    "typeRoots": ["node_modules/@types"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "pretty": true,
+    "removeComments": true,
+    "strict": true,
+    "target": "es2017",
+  }
+}
